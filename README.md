@@ -3,4 +3,8 @@ Code for Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning 
 
 
 # Available checkpoints
-Link to weights is attached [here](https://drive.google.com/drive/folders/1iYher5k2D-QduA5BQBzVpeasfRHjLYek?usp=drive_link)
+Link to weights can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1iYher5k2D-QduA5BQBzVpeasfRHjLYek?usp=drive_link)
+
+# Ackonwledgements
+
+We are grateful to [Lavis] and [SAM], on which our codes are developed.
