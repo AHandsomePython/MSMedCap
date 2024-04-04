@@ -7,7 +7,7 @@ Link to weights can be downloaded from [Google Drive](https://drive.google.com/d
 
 ## Ackonwledgements
 
-We are grateful to [Lavis] and [SAM], on which our codes are developed.
+We are grateful to [LAVIS](https://github.com/salesforce/LAVIS) and [SAM], on which our codes are developed.
 
 ## Citation
 
