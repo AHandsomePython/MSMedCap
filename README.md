@@ -43,13 +43,13 @@ MSMedCap/lavis/projects/blip2/train/pretrain_stage1.yaml
 If you want to load pretrain pth file, go to:
 
 ```bash
-/MSMedCap/lavis/configs/models/blip2/blip2_pretrain.yaml
+MSMedCap/lavis/configs/models/blip2/blip2_pretrain.yaml
 ```
 
 The input data should be some images and some json annotations, replace them in:
 
 ```bash
-/MSMedCap/lavis/configs/datasets/coco/defaults_cap.yaml
+MSMedCap/lavis/configs/datasets/coco/defaults_cap.yaml
 ```
 
 To run the training stage 1, type the instruction: 
