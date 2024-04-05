@@ -70,11 +70,11 @@ python -m torch.distributed.run --nproc_per_node=2 train.py --cfg-path lavis/pro
 ```
 
 
-## 5.Available checkpoints
+## 4.Available checkpoints
 Link to pre-trained weights can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1iYher5k2D-QduA5BQBzVpeasfRHjLYek?usp=drive_link)
 
 
-## 6.Test
+## 5.Test
 Run the jupyter file generate.ipynb to test your output. The config file can be edited at 
 ```bash
 MSMedCap/lavis/configs/models/blip2/blip2_caption_opt2.7b.yaml
@@ -83,11 +83,11 @@ You can also use instruction to evaluate the output.
 ```bash
 python -m torch.distributed.run --nproc_per_node=2 evaluate.py --cfg-path lavis/projects/blip2/eval/caption_coco_opt2.7b_eval.yaml
 ```
-## 7.Ackonwledgements
+## 6.Ackonwledgements
 
 We are grateful to [LAVIS](https://github.com/salesforce/LAVIS) and [SAM](https://github.com/facebookresearch/segment-anything), on which our codes are developed.
 
-## 8.Citation
+## 7.Citation
 
 If you find our paper and/or code helpful, please consider citing:
 ```bash
